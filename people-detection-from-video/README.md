@@ -13,7 +13,7 @@ Make sure the file name matches in the code
 
 Run the script:
 
-python people_detection_from_video.py
+python person_detection.py
 
 📊 Output
 Detects people in the video
